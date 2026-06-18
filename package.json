@@ -1,6 +1,6 @@
 {
   "name": "@shotlingo/locale-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "App Store + Google Play locale codes for 40+ supported languages. Maps ISO 639-1 codes to App Store Connect language codes and Google Play language codes.",
   "type": "module",
   "main": "index.js",
@@ -11,38 +11,31 @@
       "types": "./index.d.ts"
     }
   },
-  "files": [
-    "index.js",
-    "index.d.ts",
-    "README.md",
-    "LICENSE"
-  ],
+  "files": ["index.js", "index.d.ts", "README.md", "LICENSE"],
   "keywords": [
     "aso",
     "app-store",
+    "app-store-optimization",
+    "app-store-connect",
     "google-play",
     "locale",
+    "locale-codes",
+    "bcp47",
     "i18n",
+    "l10n",
     "localization",
     "language-codes",
     "ios",
     "android",
     "mobile"
   ],
-  "author": {
-    "name": "Alperen Güntekin",
-    "url": "https://shotlingo.com"
-  },
+  "author": { "name": "Alperen Güntekin", "url": "https://shotlingo.com" },
   "license": "MIT",
-  "homepage": "https://shotlingo.com",
+  "homepage": "https://shotlingo.com/tools/app-store-locale-codes",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlperenGuntekin/shotlingo-locale-codes.git"
   },
-  "bugs": {
-    "url": "https://github.com/AlperenGuntekin/shotlingo-locale-codes/issues"
-  },
-  "engines": {
-    "node": ">=18"
-  }
+  "bugs": { "url": "https://github.com/AlperenGuntekin/shotlingo-locale-codes/issues" },
+  "engines": { "node": ">=18" }
 }
