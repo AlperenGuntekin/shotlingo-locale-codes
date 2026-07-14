@@ -69,6 +69,15 @@ this package is what powers its language selector.
 - [`@shotlingo/screenshot-sizes`](https://www.npmjs.com/package/@shotlingo/screenshot-sizes) — current App Store + Google Play screenshot dimensions per device class (2026).
 - [`@shotlingo/text-expansion`](https://www.npmjs.com/package/@shotlingo/text-expansion) — translation length expansion ratios per locale so UI layouts don't break after translation.
 
+## Related tools
+
+- [Text expansion calculator](https://shotlingo.com/tools/text-expansion-calculator) — estimate translated string length per locale so layouts don't overflow.
+- [RTL screenshot preview](https://shotlingo.com/tools/rtl-screenshot-preview) — preview Arabic/Hebrew/Farsi/Urdu screenshot layouts before you ship.
+
 ## License
 
 MIT © [Alperen Güntekin](https://shotlingo.com)
+
+---
+
+<sub>Made by [ASO screenshot tool](https://shotlingo.com) — Shotlingo, AI-powered App Store screenshot localization for 40+ languages.</sub>
