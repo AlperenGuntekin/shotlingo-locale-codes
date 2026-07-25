@@ -73,6 +73,7 @@ this package is what powers its language selector.
 
 - [Text expansion calculator](https://shotlingo.com/tools/text-expansion-calculator) — estimate translated string length per locale so layouts don't overflow.
 - [RTL screenshot preview](https://shotlingo.com/tools/rtl-screenshot-preview) — preview Arabic/Hebrew/Farsi/Urdu screenshot layouts before you ship.
+- [App Store localization checker](https://shotlingo.com/tools/app-store-localization-checker) — expansion, width, RTL, and font notes for every App Store locale in this package.
 
 ## License
 
