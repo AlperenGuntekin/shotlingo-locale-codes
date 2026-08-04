@@ -81,4 +81,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Made by [ASO screenshot tool](https://shotlingo.com) — Shotlingo, AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Made by [App Store screenshot sizes reference](https://shotlingo.com) — Shotlingo, AI-powered App Store screenshot localization for 40+ languages.</sub>
