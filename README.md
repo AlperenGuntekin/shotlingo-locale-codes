@@ -1,4 +1,4 @@
-# @shotlingo/locale-codes
+# @shotlingo/locale-codes — App Store & Google Play Locale Codes for 40+ Languages
 
 [![npm version](https://img.shields.io/npm/v/@shotlingo/locale-codes.svg)](https://www.npmjs.com/package/@shotlingo/locale-codes)
 [![npm downloads](https://img.shields.io/npm/dm/@shotlingo/locale-codes.svg)](https://www.npmjs.com/package/@shotlingo/locale-codes)
@@ -81,4 +81,4 @@ MIT © [Alperen Güntekin](https://shotlingo.com)
 
 ---
 
-<sub>Made by [App Store screenshot sizes reference](https://shotlingo.com) — Shotlingo, AI-powered App Store screenshot localization for 40+ languages.</sub>
+<sub>Made by [ASO screenshot tool](https://shotlingo.com) — Shotlingo, AI-powered App Store screenshot localization for 40+ languages.</sub>
